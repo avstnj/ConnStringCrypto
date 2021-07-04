@@ -10,3 +10,15 @@ C:\Users\tanju.avsar\source\repos\ConnStringCrypto\ConnStringCrypto\obj\Debug\Co
 C:\Users\tanju.avsar\source\repos\ConnStringCrypto\ConnStringCrypto\obj\Debug\ConnStringCrypto.csproj.CopyComplete
 C:\Users\tanju.avsar\source\repos\ConnStringCrypto\ConnStringCrypto\obj\Debug\ConnStringCrypto.exe
 C:\Users\tanju.avsar\source\repos\ConnStringCrypto\ConnStringCrypto\obj\Debug\ConnStringCrypto.pdb
+C:\Users\tanju.avsar\source\NewRepo\ConnStringCrypto\ConnStringCrypto\bin\Debug\ConnStringCrypto.exe.config
+C:\Users\tanju.avsar\source\NewRepo\ConnStringCrypto\ConnStringCrypto\bin\Debug\ConnStringCrypto.exe
+C:\Users\tanju.avsar\source\NewRepo\ConnStringCrypto\ConnStringCrypto\bin\Debug\ConnStringCrypto.pdb
+C:\Users\tanju.avsar\source\NewRepo\ConnStringCrypto\ConnStringCrypto\bin\Debug\ACWSED.dll
+C:\Users\tanju.avsar\source\NewRepo\ConnStringCrypto\ConnStringCrypto\obj\Debug\ConnStringCrypto.csprojAssemblyReference.cache
+C:\Users\tanju.avsar\source\NewRepo\ConnStringCrypto\ConnStringCrypto\obj\Debug\ConnStringCrypto.Form1.resources
+C:\Users\tanju.avsar\source\NewRepo\ConnStringCrypto\ConnStringCrypto\obj\Debug\ConnStringCrypto.Properties.Resources.resources
+C:\Users\tanju.avsar\source\NewRepo\ConnStringCrypto\ConnStringCrypto\obj\Debug\ConnStringCrypto.csproj.GenerateResource.cache
+C:\Users\tanju.avsar\source\NewRepo\ConnStringCrypto\ConnStringCrypto\obj\Debug\ConnStringCrypto.csproj.CoreCompileInputs.cache
+C:\Users\tanju.avsar\source\NewRepo\ConnStringCrypto\ConnStringCrypto\obj\Debug\ConnStringCrypto.csproj.CopyComplete
+C:\Users\tanju.avsar\source\NewRepo\ConnStringCrypto\ConnStringCrypto\obj\Debug\ConnStringCrypto.exe
+C:\Users\tanju.avsar\source\NewRepo\ConnStringCrypto\ConnStringCrypto\obj\Debug\ConnStringCrypto.pdb
